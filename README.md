@@ -1,5 +1,9 @@
 # NextWord AI
 
+## Live Demo
+
+[Try NextWord AI](https://nextwordprediction-c2tdzgyz3ske3hheanorrl.streamlit.app/)
+
 A deep learning based **Next Word Prediction** application that predicts the most likely next word from a given text sequence.
 
 The project uses **Natural Language Processing (NLP)** techniques and an **LSTM (Long Short-Term Memory)** neural network to learn patterns from text and generate next-word predictions.
